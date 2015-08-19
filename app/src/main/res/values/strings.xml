@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Traffic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">ປ້າຍຂາລະຂອນທີ່ຕ້ອງຮູ້</string>
+    <string name="test">ທົດສອບ</string>
+    <string name="about_me">ກ່ຽວກັບເຮົາ</string>
+    <string name="title_activity_show_detail">ShowDetailActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
